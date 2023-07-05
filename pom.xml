@@ -24,7 +24,7 @@
         <jdk.version>1.8</jdk.version>
         <spingboot.version>2.1.7.RELEASE</spingboot.version>
         <failsafe.version>2.3.1</failsafe.version>
-        <grpc.version>1.23.0</grpc.version>
+        <grpc.version>1.53.0</grpc.version>
     </properties>
     <dependencies>
         <dependency>
